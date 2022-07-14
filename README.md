@@ -45,24 +45,24 @@ This section will work you through how you can get started with the project.
 |           ├── <strong>assets</strong>
 |           |
 |           ├── <strong>Components</strong>
-|           │     ├── <strong>ChatComponents</strong>  
-|           |     |        ├──<strong>ChatContainer.js</strong>
-|           │     |        ├──<strong>ChatInput.js</strong>
-|           │     |        ├──<strong>Contacts.js</strong>
-|           │     |        └──<strong>Welcome.js</strong> 
-|           |     ├── <strong>DiaryComponents</strong>  
-|           │     |        └──<strong>DiaryEntry.js</strong> 
-|           |     ├── <strong>DietComponents</strong>  
-|           |     |        ├──<strong>DietLists.js</strong>
-|           │     |        └──<strong>RecipeTile.js</strong> 
-|           |     ├── <strong>HomeComponents</strong>  
-|           |     |        ├──<strong>Button.js</strong>
-|           │     |        └──<strong>Footer.js</strong>
-|           |     ├── <strong>NavbarComponents</strong>  
-|           |     |        ├──<strong>Logout.js</strong>
-|           │     |        └──<strong>Navbar.js</strong>
-|           │     └── <strong>TherapyComponents</strong>
-|           │              └──<strong>Frames.js</strong>
+|           │      ├── <strong>ChatComponents</strong>  
+|           |      |        ├──<strong>ChatContainer.js</strong>
+|           │      |        ├──<strong>ChatInput.js</strong>
+|           │      |        ├──<strong>Contacts.js</strong>
+|           │      |        └──<strong>Welcome.js</strong> 
+|           |      ├── <strong>DiaryComponents</strong>  
+|           │      |        └──<strong>DiaryEntry.js</strong> 
+|           |      ├── <strong>DietComponents</strong>  
+|           |      |        ├──<strong>DietLists.js</strong>
+|           │      |        └──<strong>RecipeTile.js</strong> 
+|           |      ├── <strong>HomeComponents</strong>  
+|           |      |        ├──<strong>Button.js</strong>
+|           │      |        └──<strong>Footer.js</strong>
+|           |      ├── <strong>NavbarComponents</strong>  
+|           |      |        ├──<strong>Logout.js</strong>
+|           │      |        └──<strong>Navbar.js</strong>
+|           │      └── <strong>TherapyComponents</strong>
+|           │               └──<strong>Frames.js</strong>
 |           │  
 |           ├── <strong>Pages</strong>
 |           │      ├── <strong>Chat.js</strong>
@@ -85,24 +85,26 @@ This section will work you through how you can get started with the project.
 |
 │   
 │ 
-└── <strong>server</strong>
-       ├── <strong>Controllers</strong>
-       │      ├── <strong>diaryControllers.js</strong>
-       │      ├── <strong>messageControllers.js</strong>
-       │      └── <strong>userControllers.js</strong> 
-       │
-       ├── <strong>Model</strong>
-       │      ├── <strong>diaryModel.js</strong>
-       │      ├── <strong>messageModel.js</strong>
-       │      └── <strong>userModel.js</strong> 
-       │
-       ├── <strong>Routes</strong>
-       │      ├── <strong>diaryRoutes.js</strong>
-       │      ├── <strong>messageRoutes.js</strong>
-       │      └── <strong>userRoutes.js</strong> 
-       │  
+├── <strong>server</strong>
+|      ├── <strong>Controllers</strong>
+|      │      ├── <strong>diaryControllers.js</strong>
+|      │      ├── <strong>messageControllers.js</strong>
+|      │      └── <strong>userControllers.js</strong> 
+|      │
+|      ├── <strong>Model</strong>
+|      │      ├── <strong>diaryModel.js</strong>
+|      │      ├── <strong>messageModel.js</strong>
+|      │      └── <strong>userModel.js</strong> 
+|      │
+|      ├── <strong>Routes</strong>
+|      │      ├── <strong>diaryRoutes.js</strong>
+|      │      ├── <strong>messageRoutes.js</strong>
+|      │      └── <strong>userRoutes.js</strong> 
+|      │  
        └── index.js
-   
+|  
+|
+└── README.md
 </pre>
 
 
