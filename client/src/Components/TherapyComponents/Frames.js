@@ -1,0 +1,35 @@
+// Methods
+export const method1 = <iframe width="270" height="270" src="https://www.youtube.com/embed/o18I23HCQtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const method2 = <iframe width="270" height="270" src="https://www.youtube.com/embed/tEmt1Znux58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const method3 = <iframe width="270" height="270" src="https://www.youtube.com/embed/1XCObQjSHIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const method4 = <iframe width="270" height="270" src="https://www.youtube.com/embed/m3-O7gPsQK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const method5 = <iframe width="270" height="270" src="https://www.youtube.com/embed/zDlz5N6DXuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+
+// Music
+export const music1 = <iframe width="270" height="270" src="https://www.youtube.com/embed/ocRNLnZiYYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const music2 = <iframe width="270" height="270" src="https://www.youtube.com/embed/A-IzCeM6C-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const music3 = <iframe width="270" height="270" src="https://www.youtube.com/embed/Fc3fmSSUwck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const music4 = <iframe width="270" height="270" src="https://www.youtube.com/embed/HSOtku1j600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const music5 = <iframe width="270" height="270" src="https://www.youtube.com/embed/NO5tb20qQnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const music6 = <iframe width="270" height="270" src="https://www.youtube.com/embed/ivAyw4drXWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+
+// Meditate
+export const meditate1 = <iframe width="270" height="270" src="https://www.youtube.com/embed/O-6f5wQXSu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const meditate2 = <iframe width="270" height="270" src="https://www.youtube.com/embed/Hzi3PDz1AWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />; 
+export const meditate3 = <iframe width="270" height="270" src="https://www.youtube.com/embed/9BD1y0TOk3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const meditate4 = <iframe width="270" height="270" src="https://www.youtube.com/embed/86m4RC_ADEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const meditate5 = <iframe width="270" height="270" src="https://www.youtube.com/embed/lCOF9LN_Zxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+
+// Yoga
+export const yoga1 = <iframe width="270" height="270" src="https://www.youtube.com/embed/hJbRpHZr_d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const yoga2 = <iframe width="270" height="270" src="https://www.youtube.com/embed/l3zFJzV8O6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const yoga3 = <iframe width="270" height="270" src="https://www.youtube.com/embed/sTANio_2E0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const yoga4 = <iframe width="270" height="270" src="https://www.youtube.com/embed/q-ueboQo_jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+
+// Comedy
+export const comedy1 = <iframe width="270" height="270" src="https://www.youtube.com/embed/n4OFVR3V6G8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const comedy2 = <iframe width="270" height="270" src="https://www.youtube.com/embed/AkLnj5pJtDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+export const comedy3 = <iframe width="270" height="270" src="https://www.youtube.com/embed/dEZO2vnrAQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const comedy4 = <iframe width="270" height="270" src="https://www.youtube.com/embed/9LhLjpsstPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const comedy5 = <iframe width="270" height="270" src="https://www.youtube.com/embed/OHypZtu8LZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
+export const comedy6 = <iframe width="270" height="270" src="https://www.youtube.com/embed/t0Q2otsqC4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />;
