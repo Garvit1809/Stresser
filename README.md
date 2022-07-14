@@ -101,7 +101,7 @@ This section will work you through how you can get started with the project.
 |      │      ├── <strong>messageRoutes.js</strong>
 |      │      └── <strong>userRoutes.js</strong> 
 |      │  
-       └── index.js
+|      └── index.js
 |  
 |
 └── README.md
