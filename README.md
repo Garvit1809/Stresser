@@ -123,7 +123,7 @@ If you dont have [MongoDB]() you use [MongoDB Atls]()
 
 1. Clone the repo
  ```bash
- git clone https://github.com/Abusayid693/Type-writer.git
+ git clone https://github.com/Garvit1809/Stresser.git
 ```
 
 2. Create a file called .env in the Backend directory of your project:
