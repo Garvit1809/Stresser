@@ -258,20 +258,19 @@ After signing up, you would come across this page where you have to pick an Avat
 
   | Package | Description | version |
   | ------------ | ------------- | ------------- |
-  | [bcryptjs](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 5.0.1 |
-  | [cors](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 2.8.5 |
+  | [bcrypt](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 5.0.1 |
+  | [cors](https://www.npmjs.com/package/cors) | A package providing express middleware | 2.8.5 |
   | [express](https://expressjs.com) | Node.js web application framework for server side scripting | 4.18.1 |
   | [MongoDB](https://www.mongodb.com) | a NoSQL database | 4.4.3 |
   | [mongoose](https://mongoosejs.com) | elegant mongodb object modeling for node.js | 6.4.0 |
-  | [socket.io](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 4.5.1 |
+  | [socket.io](https://socket.io/) | A library enabling real-time bidirectional event-based communication | 4.5.1 |
 
 
 ## Server devDependencies
 
   | Package | Description | version |
   | ------------ | ------------- | ------------- |
-  | [dotenv](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 16.0.1 |
-  | [nodemon](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 2.0.16 |
+  | [nodemon](https://www.npmjs.com/package/nodemon) | A library to automatically restart node application | 2.0.16 |
 
 
 ## API's used
