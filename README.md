@@ -242,7 +242,7 @@ After signing up, you would come across this page where you have to pick an Avat
   | Package | Description | version |
   | ------------ | ------------- | ------------- |
   | [axios](https://www.npmjs.com/package/axios) |Promise based HTTP client for the browser and node.js|  0.27.2 |
-  | [buffer](https://www.npmjs.com/package/buffer) |  | 6.0.3 |
+  | [buffer](https://www.npmjs.com/package/buffer) | A package for easy manipulation of binary data | 6.0.3 |
   | [emoji-picker-react](https://www.npmjs.com/package/emoji-picker-react) | To add Emoji picker component for react applications | 3.5.1 |
   | [material-ui-icons](https://mui.com/material-ui/material-icons/) | Ready-to-use React Material Icons from the mui library | 5.8.4 |
   | [react-icons](https://react-icons.github.io/react-icons) | A library that allows us to include only those icons that our project is using | 4.4.0 |
@@ -261,8 +261,8 @@ After signing up, you would come across this page where you have to pick an Avat
   | [bcrypt](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 5.0.1 |
   | [cors](https://www.npmjs.com/package/cors) | A package providing express middleware | 2.8.5 |
   | [express](https://expressjs.com) | Node.js web application framework for server side scripting | 4.18.1 |
-  | [MongoDB](https://www.mongodb.com) | a NoSQL database | 4.4.3 |
-  | [mongoose](https://mongoosejs.com) | elegant mongodb object modeling for node.js | 6.4.0 |
+  | [MongoDB](https://www.mongodb.com) | A NoSQL database | 4.4.3 |
+  | [mongoose](https://mongoosejs.com) | Elegant mongodb object modeling for node.js | 6.4.0 |
   | [socket.io](https://socket.io/) | A library enabling real-time bidirectional event-based communication | 4.5.1 |
 
 
