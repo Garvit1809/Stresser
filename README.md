@@ -25,7 +25,7 @@ You can checkout the demo video on youtube by clicking on the thumbnail below.
 <img src="https://user-images.githubusercontent.com/89806031/178891853-da0d4d10-f454-42f8-bae5-7028d52f15a4.png" >  
 </a>
 
-The site is deployed through heroku, which you can view from [here](http://skillcept.vercel.app)  
+The site is deployed through heroku, which you can view from [here](https://stresser-on.herokuapp.com/)  
 
 ---
 
