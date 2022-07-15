@@ -278,7 +278,8 @@ After signing up, you would come across this page where you have to pick an Avat
 
   | API  | Description | Used in Page |
   | ------------ | ------------- | ------------- |
-  | [nodemon](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 2.0.16 |
+  | [Multiavatar API](https://api.multiavatar.com/) | API to get random avatars for profile image | SetAvatar Page |
+  | [Edamam's Recipe API](https://www.edamam.com/) | API to get recipes of the searched ingredients/food-items | Diet Page |
 
 
 ## 👦 Author
