@@ -260,6 +260,7 @@ After signing up, you would come across this page where you have to pick an Avat
   | ------------ | ------------- | ------------- |
   | [bcrypt](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 5.0.1 |
   | [cors](https://www.npmjs.com/package/cors) | A package providing express middleware | 2.8.5 |
+  | [dotenv](https://www.npmjs.com/package/dotenv) | A library that loads environment variables from a .env file into process.env | 16.0.1 |
   | [express](https://expressjs.com) | Node.js web application framework for server side scripting | 4.18.1 |
   | [MongoDB](https://www.mongodb.com) | A NoSQL database | 4.4.3 |
   | [mongoose](https://mongoosejs.com) | Elegant mongodb object modeling for node.js | 6.4.0 |
@@ -277,7 +278,6 @@ After signing up, you would come across this page where you have to pick an Avat
 
   | API  | Description | Used in Page |
   | ------------ | ------------- | ------------- |
-  | [dotenv](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 16.0.1 |
   | [nodemon](https://www.npmjs.com/package/bcrypt) | A library to help you hash password | 2.0.16 |
 
 
