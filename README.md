@@ -21,7 +21,7 @@
 > Stresser stresses on reducing people's stress and anxiety by providing featues like therapy, diet, diary and chat sections.
 
 You can checkout the demo video on youtube by clicking on the thumbnail below.
-<a href="https://youtu.be/6DoDPskkAbs">
+<a href="https://www.youtube.com/watch?v=kYiz4qzpaZw">
 <img src="https://user-images.githubusercontent.com/89806031/178891853-da0d4d10-f454-42f8-bae5-7028d52f15a4.png" >  
 </a>
 
