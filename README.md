@@ -176,7 +176,7 @@ npm start
 ### 1. Home Page
 
 ![homeImg](https://user-images.githubusercontent.com/89806031/178814155-9a31f975-aee1-4630-9d05-29b30b14b46b.png)
-![homeImg2](https://user-images.githubusercontent.com/89806031/178814812-a9748e71-2f43-4a54-8935-1d875682ae28.png)
+![homeImg2](https://user-images.githubusercontent.com/89806031/179440842-f424fc5d-8f25-4a0e-9b7a-6fdd8f92c091.png)
 
 
 ### 2. Therapy Page
